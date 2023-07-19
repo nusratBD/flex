@@ -1,0 +1,11 @@
+section{
+    display: flex;
+    gap: 10px;
+}
+div{
+    border: 2px solid salmon;
+    background-color: cadetblue;
+    flex: 1;
+    /* flex-grow: 1; */
+    /* flex-basis: 0; */
+}
